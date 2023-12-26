@@ -1,4 +1,4 @@
-![image](https://github.com/prashanthreddy31/prashanthreddy31/assets/146806742/bad8cb35-792e-4260-89e6-c6cbb75c3586)<h1 align="center">Hi 👋, I'm Prashanth S V</h1>
+<h1 align="center">Hi 👋, I'm Prashanth S V</h1>
 <h3 align="center">An aspiring data analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e4780irxn8u18vbu5incjjms216wih9klaq07f30ciq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
