@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashanth S V</h1>
-<h3 align="center">An aspiring data analyst</h3>
+<h3 align="center">An aspiring data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e4780irxn8u18vbu5incjjms216wih9klaq07f30ciq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 👨‍🎓 I have completed my Masters in **Statistics**
