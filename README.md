@@ -4,7 +4,7 @@
 
 - 👨‍🎓 I have completed my Masters in **Statistics**
   
-- 🌱 I’m currently learning **Machine learning, Deep learning**
+- 🌱 I’m currently learning **Machine learning, Deep learning, RAG, LLM**
 
 - 💬 Ask me about **Statistics**
 
