@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Prashanth S V</h1>
-<h3 align="center">An aspiring data Scientist</h3>
+<h3 align="center">Data Scientist & ML Engineer | RAG • Agentic AI • Computer Vision</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e4780irxn8u18vbu5incjjms216wih9klaq07f30ciq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 👨‍🎓 I have completed my Masters in **Statistics**
+- 👨‍🎓 I hold a **Master's in Statistics** (CGPA 8.51/10)
   
-- 🌱 I’m currently learning **Machine learning, Deep learning, RAG, LLM**
+- 🚀 2+ years of experience building end-to-end ML pipelines, RAG-based LLM systems, Agentic AI systems, and computer vision models.
 
-- 💬 Ask me about **Statistics**
+- 🌱 Currently deepening my expertise in **LLM fine-tuning, multimodal RAG, and agentic workflows**.
+
+- 💬 Ask me about **Statistics, Machine Learning, RAG & LLM Systems**
 
 - 📫 How to reach me **prashanthvreddy2@gmail.com**
 
-- 👯  I am seeking collaboration opportunities for projects that involve leveraging data analytics to derive meaningful insights from intricate datasets.
+- 👯 Open to collaboration on data science and applied ML projects that turn complex datasets into real insights.
 
 
 <h3 align="left">Connect with me:</h3>
