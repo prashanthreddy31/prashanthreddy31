@@ -14,7 +14,7 @@
 
 - 👯 Open to collaboration on data science and applied ML projects that turn complex datasets into real insights.
 
-══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
 
 ### 🛠️ Featured Work
 
@@ -23,7 +23,7 @@
 * **Agentic RAG System** — LangGraph-based query router across vector search (Qdrant), web search (Tavily), and direct LLM inference, with persistent multi-turn memory (MongoDB).
 * **Fine-Tuned Phi-2 (2.7B)** — \~30% improvement in GSM8K math reasoning via QLoRA + DPO, training only 0.1% of parameters.
 
-══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════════════════════════════════
 
 ### 🧰 Languages and Tools
 
@@ -47,7 +47,7 @@
 **Statistics:** Statistical Modelling · Time Series (ARIMA) · Hypothesis Testing · Regression Analysis · Predictive Modelling
 **Deployment \& MLOps:** MLflow · SageMaker · Docker · FastAPI · Streamlit
 
-══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
 
 ### 🌐 Connect with Me
 
