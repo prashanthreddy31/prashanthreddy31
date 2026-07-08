@@ -14,16 +14,54 @@
 
 - 👯 Open to collaboration on data science and applied ML projects that turn complex datasets into real insights.
 
+\---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Featured Work
+
+* **Hybrid RAG System for Research Papers** — Production-ready RAG app with 0.88 faithfulness, 0.91 context recall, and sub-3.2s p95 latency (Pinecone hybrid search, Cohere reranking, citation-grounded generation, Redis, FastAPI + Streamlit).
+* **Real-Time AI Voice Assistant** — Silero VAD → Whisper ASR → Groq LLM → Kokoro TTS pipeline with sub-1.5s end-to-end latency.
+* **Agentic RAG System** — LangGraph-based query router across vector search (Qdrant), web search (Tavily), and direct LLM inference, with persistent multi-turn memory (MongoDB).
+* **Fine-Tuned Phi-2 (2.7B)** — \~30% improvement in GSM8K math reasoning via QLoRA + DPO, training only 0.1% of parameters.
+
+\---
+
+### 🧰 Languages and Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/prashanth-s-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashanth-s-v" height="30" width="40" /></a>
+  <a href="https://www.python.org" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.r-project.org/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://streamlit.io/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon-plain/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://redis.io" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Generative AI \& LLMs:** LangChain · LangGraph · RAG · Groq · Hugging Face Transformers · Agentic AI · Multimodal LLMs · Prompt \& Context Engineering
+**Vector Databases:** Pinecone · Qdrant · ChromaDB · MongoDB
+**Computer Vision:** Vision Transformers (ViT) · VAEs · GANs · Diffusion Models
+**Statistics:** Statistical Modelling · Time Series (ARIMA) · Hypothesis Testing · Regression Analysis · Predictive Modelling
+**Deployment \& MLOps:** MLflow · SageMaker · Docker · FastAPI · Streamlit
 
+\---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashanthreddy31&show_icons=true&locale=en" alt="prashanthreddy31" /></p>
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthreddy31&" alt="prashanthreddy31" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanthreddy31\&show\_icons=true\&locale=en\&theme=default" alt="prashanthreddy31" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthreddy31" alt="prashanthreddy31" width="49%" />
+</p>
+
+\---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/prashanth-s-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashanth-s-v" height="30" width="40" /></a>
+  <a href="mailto:prashanthvreddy2@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+</p>
